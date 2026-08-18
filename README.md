@@ -121,7 +121,7 @@ _**Summary Data була сформована окремо, щоб не дубл
 
 Після аналізу фактичних продажів, другим етапом я окремо розрахувала індекс продажів для кожної торгової мережі.
 
-<img width="951" height="1053" alt="image" src="https://github.com/user-attachments/assets/c31a881d-beb7-41e1-a205-0cdaea755b65" />
+<img width="1915" height="1078" alt="image" src="https://github.com/user-attachments/assets/8771c267-9595-4288-a466-1b16e0773556" />
 
 Він допомагає зрозуміти, наскільки сильним або слабким був конкретний місяць для самої мережі.
 
