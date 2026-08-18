@@ -71,9 +71,13 @@ _**Summary Data була сформована окремо, щоб не дубл
 Наприклад:
 
 `CK` відповідає Calvin Klein
+
 `TJ` відповідає Tommy Jeans
+
 `UA` відповідає Under Armour
+
 `DA` відповідає Discounterra
+
 `GS` відповідає G Star RAW
 
 <img width="1316" height="1156" alt="image" src="https://github.com/user-attachments/assets/a9fa6b6e-0ce9-4fc3-9079-af1ca7ccd951" />
